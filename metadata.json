@@ -1,0 +1,6 @@
+{
+  "name": "C BASIC BOSS",
+  "description": "Learn Anywhere. Practice Here. Master C. A comprehensive C programming practice platform with structured topics, problem-solving, hints, detailed solutions, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
